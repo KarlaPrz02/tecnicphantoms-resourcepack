@@ -1,0 +1,9 @@
+Diamond Ore > Prismarine Slag
+Block of Diamond > Refined Prismarine Block
+Diamond |X|> Refined Prismarine |X|
+Iron |X| > Metal |X|
+
+Light Gray Concrete Powder > Dust
+
+
+

@@ -1,0 +1,36 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "items/gold_sword"
+    },
+	"overrides": [
+{"predicate": {"damaged": 0, "damage": 0.03},"model": "item/champion_medal"},
+{"predicate": {"damaged": 0, "damage": 0.06},"model": "item/unfading_candle"},
+{"predicate": {"damaged": 0, "damage": 0.09},"model": "item/portable_lantern"},
+{"predicate": {"damaged": 0, "damage": 0.12},"model": "item/key_cellar"},
+{"predicate": {"damaged": 0, "damage": 0.15},"model": "item/abyss_gem"},
+{"predicate": {"damaged": 0, "damage": 0.18},"model": "item/key_candlemaker"},
+{"predicate": {"damaged": 0, "damage": 0.21},"model": "item/key_antique"},
+{"predicate": {"damaged": 0, "damage": 0.24},"model": "item/___"},
+{"predicate": {"damaged": 0, "damage": 0.27},"model": "item/ghedagot_eye"},
+{"predicate": {"damaged": 0, "damage": 0.3},"model": "item/crimson_flask"},
+{"predicate": {"damaged": 0, "damage": 0.33},"model": "item/scholar_glove"},
+{"predicate": {"damaged": 0, "damage": 0.36},"model": "item/blightworm_larvae"},
+{"predicate": {"damaged": 0, "damage": 0.39},"model": "item/cosmic_aegis"},
+{"predicate": {"damaged": 0, "damage": 0.42},"model": "item/entropic_flame"},
+{"predicate": {"damaged": 0, "damage": 0.45},"model": "item/___"},
+{"predicate": {"damaged": 0, "damage": 0.48},"model": "item/key"},
+{"predicate": {"damaged": 0, "damage": 0.51},"model": "item/celestial_compass"},
+{"predicate": {"damaged": 0, "damage": 0.54},"model": "item/key_ghedagot"},
+{"predicate": {"damaged": 0, "damage": 0.57},"model": "item/incense"},
+{"predicate": {"damaged": 0, "damage": 0.6},"model": "item/___"},
+{"predicate": {"damaged": 0, "damage": 0.63},"model": "item/___"},
+{"predicate": {"damaged": 0, "damage": 0.66},"model": "item/ligebied_sword"},
+{"predicate": {"damaged": 0, "damage": 0.69},"model": "item/monocular"},
+{"predicate": {"damaged": 0, "damage": 0.72},"model": "item/bardiche"},
+{"predicate": {"damaged": 0, "damage": 0.755},"model": "item/towerblade"},
+{"predicate": {"damaged": 0, "damage": 0.79},"model": "item/frozen_compass"},
+{"predicate": {"damaged": 0, "damage": 0.82},"model": "item/___"},
+{"predicate": {"damaged": 1, "damage": 0},"model": "item/golden_sword_original"}
+    ]
+}
