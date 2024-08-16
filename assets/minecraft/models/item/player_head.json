@@ -1,0 +1,43 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "builtin/entity",
+	"textures": {
+		"1": "block/texture",
+		"particle": "block/soul_sand"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-179.31, 0.98, -179.21],
+			"translation": [0, 4.5, 0.3],
+			"scale": [0.54, 0.54, 0.07]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-179.31, 0.98, -179.21],
+			"translation": [0, 4.5, 0.3],
+			"scale": [0.54, 0.54, 0.07]
+		},
+		"firstperson_righthand": {
+			"rotation": [147.16, -74.67, 165.77],
+			"translation": [1.5, 6, 0],
+			"scale": [1, 0.76, 0.07]
+		},
+		"firstperson_lefthand": {
+			"rotation": [148.2, -74.77, 164.65],
+			"translation": [-2, 6.25, 2.5],
+			"scale": [1, 0.7, 0.05]
+		},
+		"ground": {
+			"translation": [-0.25, 3, 0.25],
+			"scale": [0.6, 0.65, 0.07]
+		},
+		"gui": {
+			"translation": [0, 3, 0]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 4, 0],
+			"scale": [1, 1, 0.1]
+		}
+	}
+}
